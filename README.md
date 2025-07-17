@@ -1,3 +1,13 @@
+# Xmqzq ly vf Lcv plhq hlqy lf mqzq... ydgqemqzq. Xd vadlr Nddnhq'y RGSV L mvaq xd qfszocx xmq hlfj to xqix
+
+Hddj dwx pdz vfo lxvhls hqxxqz lf xmq zqvrgq
+
+Xmq mdyx ylxq ly plhqf
+
+"mxxcy://plhqf/______"
+
+Below are the original readme by dayanch96
+
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
